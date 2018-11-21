@@ -44,6 +44,6 @@ https://www.youtube.com/watch?v=6xTXS4SS5dA&feature=youtu.be
 
 https://www.dropbox.com/s/g4f9yxq97w3wxyv/emacs-tutorial.mov?dl=0
 
-##Exceptions tutorial
+## Exceptions tutorial
 
 https://www.dropbox.com/s/y8s4hudjug60iex/exceptions-tutorial.mov?dl=0
