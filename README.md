@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=CEi6xP7haRE&feature=youtu.be&t=375
 
 https://www.youtube.com/watch?v=uqweogSOrOM&feature=youtu.be
 
-## ection 10 Singleton & NotificationCenter
+## Section 10 Singleton & NotificationCenter
 
 https://www.youtube.com/watch?v=6xTXS4SS5dA&feature=youtu.be
 
